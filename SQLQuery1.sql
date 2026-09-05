@@ -1,10 +1,3 @@
-/*
-TASK - Data Manipulation Exercises
-Backend - ASP.NET Core
-Database: CompanyDB
-Schema: Sales
-SQL Server
-*/
 
 -- =========================================================
 -- PART 1: DATABASE, SCHEMA, EMPLOYEES TABLE
